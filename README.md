@@ -1,7 +1,5 @@
-# 
-The Project for Learning Agentic AI and Capstone Project for IBM and Hacktive short course
-
 # SentimentForBudgetEfficiency
+The Project for Learning Agentic AI and Capstone Project for IBM and Hacktive short course
 
 ## Ringkasan Proyek
 Efisiensi anggaran pemerintah adalah upaya untuk memaksimalkan hasil atau manfaat dari setiap pengeluaran dana publik sambil meminimalkan pemborosan.
