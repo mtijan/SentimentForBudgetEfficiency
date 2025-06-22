@@ -16,6 +16,8 @@ Anda dapat mengakses dataset mentah yang digunakan dalam proyek ini melalui taut
 
 https://drive.google.com/file/d/198Qb1T0L78Xt5qxUbEeM-xvJOGnODgLq/view?usp=sharing
 
+https://www.kaggle.com/datasets/jocelyndumlao/budget-efficiency-in-indonesia
+
 Harap dicatat bahwa dataset ini mungkin memerlukan otentikasi atau izin akses tertentu tergantung pada sumbernya.
 
 ## Wawasan & Temuan Utama
